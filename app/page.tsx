@@ -49,7 +49,7 @@ export default function Page() {
           </div>
 
           <!-- REPLACE EMAIL BELOW -->
-          <form action="https://formsubmit.co/YOUR-EMAIL-HERE" method="POST" className="grid gap-4">
+          <form action="https://formsubmit.co/cryptocarscomputers@gmail.com" method="POST" className="grid gap-4">
 
             <input type="hidden" name="_captcha" value="false" />
             <input type="hidden" name="_template" value="table" />
